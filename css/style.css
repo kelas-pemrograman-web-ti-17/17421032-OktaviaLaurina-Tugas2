@@ -1,0 +1,6 @@
+@import url('https://font.googleapis.com/css?family=Roboto');
+
+body {
+  background: url('../image/IMG.jpg') no-repeat center fixed;
+  background-size : cover;
+}
